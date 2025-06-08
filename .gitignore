@@ -1,0 +1,18 @@
+# Visual Studio cache files
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio Code settings
+.vscode/
+
+# Backup files
+*.bak
+*.swp
+*.tmp
